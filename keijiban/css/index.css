@@ -16,18 +16,18 @@ label {
     color: rgb(17, 151, 17);
     float: left;
 }
-    
+
 .post{
     position: relative;
 }
-    
+
 #formButton {
     position: absolute;
     background-color: rgb(32, 240, 32);
     border: 1px solid darkgreen;
 }
-    
+
 #list{
     bottom: 50%
-    
+
 }
