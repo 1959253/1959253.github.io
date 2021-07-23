@@ -99,3 +99,5 @@ function checkText(text) {
     // すべてのチェックを通過すればOK
     return true;
 }
+
+
